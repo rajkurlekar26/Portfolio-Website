@@ -1,6 +1,6 @@
 # Rajvardhan Kurlekar — Software Developer Portfolio
 
-![Portfolio Preview](./public/demo.png) <!-- You can replace this with an actual screenshot of your website -->
+![Portfolio Preview](./public/Demo.png) <!-- You can replace this with an actual screenshot of your website -->
 
 A modern, responsive, and highly interactive personal portfolio website showcasing my experience, education, skills, and projects in software development and computer science.
 
