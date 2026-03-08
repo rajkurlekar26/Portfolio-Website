@@ -34,8 +34,8 @@ const skillCategories = [
       { name: "PostgreSQL", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" },
       { name: "MongoDB", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
       { name: "Snowflake", icon: "https://cdn.simpleicons.org/snowflake/29B5E8" },
-      { name: "Power BI", icon: "https://cdn.simpleicons.org/powerbi/F2C811" },
-      { name: "Tableau", icon: "https://cdn.simpleicons.org/tableau/E97627" },
+      { name: "Power BI", icon: "https://img.icons8.com/color/48/power-bi.png" },
+      { name: "Tableau", icon: "https://img.icons8.com/color/48/tableau-software.png" },
     ],
   },
   {
